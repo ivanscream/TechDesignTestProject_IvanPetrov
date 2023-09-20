@@ -18,14 +18,14 @@ MonoBehaviour:
   m_GUID: f680824117be9d64cbfe022cae573dcc
   m_SerializeEntries:
   - m_GUID: 1c9af654dbe9b7948b917e1de038ea9c
-    m_Address: old_scene_table_ru-RU
+    m_Address: first_scene_table_ru-RU
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ru-RU
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: d414877eb0c2be0449db994ee60cfb8b
-    m_Address: new_scene_table_ru-RU
+    m_Address: second_scene_table_ru-RU
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ru-RU
