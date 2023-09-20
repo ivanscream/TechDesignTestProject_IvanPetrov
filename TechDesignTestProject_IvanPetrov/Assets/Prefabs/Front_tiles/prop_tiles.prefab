@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5608078712732237421}
   - component: {fileID: 440882109897733710}
   m_Layer: 0
-  m_Name: props_tileset_3
+  m_Name: props_tileset_3_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -282,14 +282,14 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7877084321415064355}
-  - {fileID: 5608078712732237421}
+  - {fileID: 5961953277691474811}
   - {fileID: 3360550886268040010}
+  - {fileID: 5608078712732237421}
   - {fileID: 2705109190361783680}
   - {fileID: 305284052781206090}
+  - {fileID: 3315439462817189275}
   - {fileID: 6656911221163572917}
   - {fileID: 4476553692911846252}
-  - {fileID: 5961953277691474811}
-  - {fileID: 3315439462817189275}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3857535413490987643
@@ -387,7 +387,7 @@ GameObject:
   - component: {fileID: 3360550886268040010}
   - component: {fileID: 702771638004824700}
   m_Layer: 0
-  m_Name: props_tileset_3 (1)
+  m_Name: props_tileset_3_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -555,7 +555,7 @@ GameObject:
   - component: {fileID: 2705109190361783680}
   - component: {fileID: 2460004985897230406}
   m_Layer: 0
-  m_Name: props_tileset_3 (2)
+  m_Name: props_tileset_3_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -723,7 +723,7 @@ GameObject:
   - component: {fileID: 305284052781206090}
   - component: {fileID: 2357419669830595000}
   m_Layer: 0
-  m_Name: props_tileset_3 (3)
+  m_Name: props_tileset_3_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
